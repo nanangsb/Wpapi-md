@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const wpInstance = axios.create({
-  baseURL: "https://admin.nh-bayern.de/wp-json/",
+  baseURL: "https://muslim.or.id/wp-json/",
   timeout: 7500
 });
 
